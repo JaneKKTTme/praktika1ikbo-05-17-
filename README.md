@@ -1,5 +1,5 @@
 ﻿# praktika1ikbo-05-17-
-In this repository there are seven finished practice works.
+In this repository there are seven finished practice works which made by Jane Khomenko.
 All practice works:
 1. Realize a simple class "Book".
 You need realize a simple class by computer-programming language Java. Add method named ToString. Create class-test to output information about object.
@@ -17,4 +17,12 @@ Find maximum of sequence of integer which finished by '0'. Any global variables 
 6. Task on topic: "Sorting".
 Create class-test which realizes an array of class "Student" and sorts an array "iDNumber".
 7. Game "Drunkard".
+<<<<<<< HEAD
 Input example: 1 3 5 7 9; 2 4 6 8 0. Output example: second 5.
+=======
+Input example: 
+1 3 5 7 9
+2 4 6 8 0
+Output example:
+second 5
+>>>>>>> 9eb70bd16d0494ddddcfd999a920f5b1ec69f5e4
